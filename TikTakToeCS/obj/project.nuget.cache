@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeAqDj04FPvnAcddv7d0d46M8BiBcSb/vhR8QrVMV1ONjOx/IMVjpe+snelHK0AzZsSP62nv5nF9OzEMdTdbmw==",
+  "success": true,
+  "projectFilePath": "/home/isaiahr/src/TikTakToe/TikTakToeCS/TikTakToe.csproj",
+  "expectedPackageFiles": [
+    "/home/isaiahr/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
